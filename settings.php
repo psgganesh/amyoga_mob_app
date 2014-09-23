@@ -6,7 +6,7 @@
 		<header class="bar-title">
 			<button class="button" id="toggle-left">Menu</button>
 			<h1 class="title">Settings</h1>
-			<button class="button" id="toggle-right">Folks</button>
+			<!--<button class="button" id="toggle-right">Folks</button>-->
 		</header>
 		
 		<!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
