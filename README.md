@@ -1,4 +1,4 @@
-Ratchet Vine
+amyoga with Ratchet Vine
 =============
 
 A Ratchet template that attempts to recreat the beautiful Vine app
@@ -15,12 +15,3 @@ The real bread and butter of this template is located in [vine.css](https://gith
 
 ## Explore Template
 <img src="http://i.imgur.com/l5se8YZ.png" width="400">
-
-## Feed Template
-<img src="http://i.imgur.com/k7qohwa.png" width="400">
-
-## Profile Template
-<img src="http://i.imgur.com/aaIhR2H.png" width="400">
-
-## Settings Template
-<img src="http://i.imgur.com/uow4a5r.jpg" width="400">
